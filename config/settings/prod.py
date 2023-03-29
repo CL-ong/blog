@@ -8,5 +8,5 @@ SECRET_KEY = config('SECRET_KEY')
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'cl-ong-blog.herokuapp.com'
+    'cl-ong-blog.com'
 ]
